@@ -4,6 +4,5 @@ public class MyApp{
 		int b=5:
 		System.out.println("addition is:"+(a+b));
 		System.out.println("differ is:"+(a-b));
-		System.out.println("prod is:"+(a*b);
 	}
 }
